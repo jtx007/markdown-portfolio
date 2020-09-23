@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I love to code in*
+_JavaScript_
+
+**Ruby**
+and
+__Python__
+
+_and always looking to learn more_
